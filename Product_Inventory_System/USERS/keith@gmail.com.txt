@@ -1,0 +1,5 @@
+Name: keith
+Username: keith2332
+Email: keith@gmail.com
+Password: ccna
+Confirm Password: ccna

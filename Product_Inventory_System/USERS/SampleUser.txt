@@ -1,0 +1,6 @@
+1|ert|23|23|Women's Apparel|Site 1B|2023-12-19 20:09:26
+1|tre|23|32|Women's Apparel|Site 1B|2023-12-19 20:10:02
+1|gfd3|3242|23|Beauty & Personal Care|Site 1A|2023-12-19 20:11:31
+2|ger|523|42|Beauty & Personal Care|Site 3A|2023-12-19 20:11:44
+1|yhfgh|123|543|Men's Wear|Site 1B|2023-12-19 20:13:53
+2|tret3|5345|434|Women's Apparel|Site 2B|2023-12-19 20:29:50

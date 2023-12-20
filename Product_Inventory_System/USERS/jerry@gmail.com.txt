@@ -1,0 +1,5 @@
+Name: jerry
+Username: jerry2332
+Email: jerry@gmail.com
+Password: ccna
+Confirm Password: ccna
